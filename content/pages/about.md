@@ -2,7 +2,7 @@
 template: page
 title: About me
 slug: about_me
-socialImage: https://unsplash.com/photos/fDghTk7Typw/download?force=true&w=1920
+socialImage: /media/image-2.jpg
 draft: true
 ---
 P
